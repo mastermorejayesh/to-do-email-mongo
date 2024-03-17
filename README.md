@@ -1,2 +1,17 @@
-# to-do-email-mongo
-Enter email  and showing email address using mongodb database 
+# node-todo-email-mongpo
+
+Run these commands:
+
+
+`sudo apt install nodejs`
+
+
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+
+or Run by docker compose
+
