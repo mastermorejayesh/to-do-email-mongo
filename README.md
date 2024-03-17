@@ -1,4 +1,4 @@
-# node-todo-email-mongpo
+# node-todo-email-mongo
 
 Run these commands:
 
