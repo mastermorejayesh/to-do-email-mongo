@@ -13,5 +13,8 @@ Run these commands:
 
 `node app.js`
 
+`running on 3000 port`
+
+
 or Run by docker compose
 
